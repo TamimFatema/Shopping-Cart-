@@ -1,7 +1,3 @@
-    cart = [];
-    
-    // Constructor
-    function Item(name, price, count) {
 let addToCartButtons = document.getElementsByClassName('btn-primary')
 let cartContainer = document.getElementsByTagName('tbody')[0]
 let quantityFields = document.getElementsByClassName('num')
